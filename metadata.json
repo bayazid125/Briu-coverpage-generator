@@ -1,6 +1,0 @@
-{
-  "name": "BRIU Cover Page Generator",
-  "description": "Generate professional university assignment and report cover pages matching the Brahmaputra International University template.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
